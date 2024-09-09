@@ -1,5 +1,9 @@
 streamlit
-bokeh 
 requests
 librosa
+bokeh
 numpy
+librosa
+note_seq
+FluidSynth
+Path
